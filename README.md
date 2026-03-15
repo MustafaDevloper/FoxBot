@@ -190,18 +190,4 @@ Bu proje açık kaynaklıdır.
 
 ---
 
-## Küçük tavsiyeler (çok fark yaratır)
-
-README'ye şunları eklersen proje **çok daha ciddi görünür**:
-
-* ⭐ **invite link**
-* 📷 **bot ekran görüntüsü**
-* 📊 **GitHub badge**
-
-Örnek:
-
-```
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-```
 
