@@ -1,0 +1,2 @@
+# FoxBot
+Discord Moderasyon Botu
